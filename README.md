@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mahir Faisal</h1>
+<h1 align="center">Assalamualikum, I'm Mahir Faisal</h1>
+<h3 align="center">A Software Engineering Student from IIT,DU</h3>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+
 
 <img align ="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg">
 
