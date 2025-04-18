@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juriez&label=Profile%20views&color=0e75b6&style=flat" alt="juriez" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **PyTorch**
 
 - 📝 I regularly write articles on [mahirf.blogspot.com](mahirf.blogspot.com)
 
