@@ -6,20 +6,20 @@
 
 ---
 
-### 🌱 Currently Exploring
+###  Currently Exploring
 - Deep Learning with **PyTorch**
 - Scalable backend systems using **Node.js + Express + MongoDB**
 - Research in **Computer Vision** and **AI-driven software architectures**
 
 ---
 
-### 📝 I Write About 
+###  I Write About 
 - Not bounded
 📖 Blog: [mahirf.blogspot.com](https://mahirf.blogspot.com)
 
 ---
 
-### 📫 Reach Me At
+###  Reach Me At
 - **Email:** bsse1316@iit.du.ac.bd 
 - **Location:** Dhaka, Bangladesh  
 
