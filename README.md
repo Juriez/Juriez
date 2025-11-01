@@ -15,7 +15,7 @@
 
 ###  I Write About 
 - Not bounded
-📖 Blog: [mahirf.blogspot.com](https://mahirf.blogspot.com)
+-📖 Blog: [mahirf.blogspot.com](https://mahirf.blogspot.com)
 
 ---
 
