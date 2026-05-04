@@ -8,7 +8,6 @@
 
 ###  Currently Exploring
 - Deep Learning with **PyTorch**
-- Scalable backend systems using **Node.js + Express + MongoDB**
 - Research in **Computer Vision** and **AI-driven software architectures**
 
 ---
