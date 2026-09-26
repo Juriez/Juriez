@@ -24,7 +24,7 @@ A research work in **Machine Learning, Deep Learning, Computer Vision, Image Pro
 
 **Authors:** Mahir Faisal, Mridha Md. Nafis Fuad, B.M. Mainul Hossain
 
-🔗 **Paper:** https://doi.org/10.1016/j.softx.2026.103064 //
+🔗 **Paper:** https://doi.org/10.1016/j.softx.2026.103064 \
 💻 **Code:** https://github.com/Juriez/EffZeDuSR
 
 ---
