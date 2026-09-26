@@ -7,8 +7,25 @@
 ---
 
 ###  Currently Exploring
-- Deep Learning with **PyTorch**
+- **ViT for Edge Devices**
 - Research in **Computer Vision** and **AI-driven software architectures**
+
+---
+
+## 🔬 Research & Publications
+
+### 📄 First-Author Research Publication: SoftwareX
+
+**[EffZeDuSR: A web tool for zero-shot dual-lens super-resolution and low light image enhancement](https://doi.org/10.1016/j.softx.2026.103064)**
+
+Published in **SoftwareX (Elsevier), 2026**.
+
+A research work in **Machine Learning, Deep Learning, Computer Vision, Image Processing, Zero-Shot Learning, Image Super-Resolution, Low-Light Image Enhancement and Computational Photography**.
+
+**Authors:** Mahir Faisal, Mridha Md. Nafis Fuad, B.M. Mainul Hossain
+
+🔗 **Paper:** https://doi.org/10.1016/j.softx.2026.103064
+💻 **Code:** https://github.com/Juriez/EffZeDuSR
 
 ---
 
