@@ -7,7 +7,7 @@
 ---
 
 ###  Currently Exploring
-- **ViT for Edge Devices**
+- **Domain Adaptation & ViT for Edge Devices**
 - Research in **Computer Vision** and **AI-driven software architectures**
 
 ---
