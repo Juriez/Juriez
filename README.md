@@ -7,7 +7,7 @@
 ---
 
 ###  Currently Exploring
-- **Domain Adaptation & ViT for Edge Devices**
+- **Domain Adaptation(Test Time Adaptation) & ViT for Edge Devices**
 - Research in **Computer Vision** and **AI-driven software architectures**
 
 ---
